@@ -10,4 +10,4 @@ ports:
 
 vscode:
   extensions:
-    - "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ilg-vscode/vsextensions/xpack/0.4.16/vspackage"
+    - "https://github.com/xpack/vscode-xpack-extension-ts/archive/refs/tags/v0.4.16.zip"
